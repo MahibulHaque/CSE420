@@ -52,6 +52,6 @@ if __name__=="__main__":
                 
             else: 
                 print(f"Invalid, {index+1}")
-        f.close()
+    f.close()
         
         
